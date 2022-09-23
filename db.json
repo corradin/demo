@@ -1,7 +1,7 @@
 {
 	"session": {
-		"namespace": 'myNamespace',
-		"data": { "variable": 'test123' },
+		"namespace": "My namespace",
+		"data": { "variable": "my test assistant" },
   	},
-	"messages": [{ "type": 'text', "config": { "textMessages": [{ "text": 'random message 1' }] } }],
+	"messages": [{ "type": "text", "config": { "textMessages": [{ "text": "Hello from awesome API!" }] } }],
 }
