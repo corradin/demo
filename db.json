@@ -1,7 +1,7 @@
 {
-	session: {
-		namespace: 'myNamespace',
-		data: { variable: 'test123' },
+	"session": {
+		"namespace": 'myNamespace',
+		"data": { "variable": 'test123' },
   	},
-	messages: [{ type: 'text', config: { textMessages: [{ text: 'random message 1' }] } }],
+	"messages": [{ "type": 'text', "config": { "textMessages": [{ "text": 'random message 1' }] } }],
 }
