@@ -1,5 +1,5 @@
 {
-	"data": { 
+	"hello": { 
 		"session": {
 			"namespace": "My namespace",
 			"data": { "variable": "my test assistant" }
